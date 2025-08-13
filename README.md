@@ -1,6 +1,8 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Tomás Herrlein</h1>
 </br>
-#⚙️Tecnologias que utilizo
+
+<h2>⚙️Tecnologias que utilizo</h2>>
+</br>
 
 <p>
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
