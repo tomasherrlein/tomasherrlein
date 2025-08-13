@@ -2,7 +2,6 @@
 </br>
 
 <h2>Sobre mi</h2>
-</br>
 
 <p>
 💻 Desarrollador enfocado en el backend, apasionado por la programación y la tecnología. </br>
