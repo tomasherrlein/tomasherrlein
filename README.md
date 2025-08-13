@@ -1,12 +1,11 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Tomás Herrlein</h1>
 </br>
 
-<h3>💻 Desarrollador enfocado en el backend, apasionado por la programación y la tecnología.</h3>
-<h3>🎓 Estudiando una Tecnicatura Universitaria en Programación.</h3> 
-<h3> Apasionado por la programación y la tecnología.</h3>
-<h3>🎯 Me gusta resolver problemas complejos y aprender cosas nuevas</h3>
-<h3>🎮 Fan de los videojuegos</h3>
-<h3>✨ Siempre aprendiendo y mejorando mis habilidades.</h3>
+<strong>💻 Desarrollador enfocado en el backend, apasionado por la programación y la tecnología.</strong>
+<strong>🎓 Estudiando una Tecnicatura Universitaria en Programación.</strong> 
+<strong>🎯 Me gusta resolver problemas complejos y aprender cosas nuevas</strong>
+<strong>🎮 Fan de los videojuegos</strong>
+<strong>✨ Siempre aprendiendo y mejorando mis habilidades.</strong>
 
 <h2>⚙️Tecnologias que utilizo</h2>
 </br>
