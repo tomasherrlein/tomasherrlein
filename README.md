@@ -6,8 +6,8 @@
 <p>
 💻 Desarrollador enfocado en el backend, apasionado por la programación y la tecnología. </br>
 🎓 Estudiando una Tecnicatura Universitaria en Programación. </br>
-🎯 Me gusta resolver problemas complejos y aprender cosas nuevas </br>
-🎮 Fan de los videojuegos </br>
+🎯 Me gusta resolver problemas complejos y aprender cosas nuevas. </br>
+🎮 Fan de los videojuegos. </br>
 ✨ Siempre aprendiendo y mejorando mis habilidades.
 </p>
 
@@ -24,4 +24,10 @@
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
+
+</br>
+<h2>Contacto</h2>
+<a href="mailto:herrlein.tomas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tomas-herrlein-8a603a302/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
+
 
