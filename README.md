@@ -27,7 +27,7 @@
 
 </br>
 <h2>Contacto</h2>
-<a href="mailto:herrlein.tomas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/tomas-herrlein-8a603a302/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="mailto:herrlein.tomas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badgelogo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tomas-herrlein-8a603a302/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badgelogo=linkedin&logoColor=white"></a>
 
 
